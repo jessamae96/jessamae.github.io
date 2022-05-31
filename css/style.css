@@ -1,42 +1,5 @@
 @charset "utf-8";
-/*
-	Visual by TEMPLATE STOCK
-	templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
-
-/*-----------------------------------------------------------------------------
-
-Table of Contents:
-
- 1) General
- 2) Typography
- 3) Backgrounds
- 4) Home Sections
- 5) Home Revolution Slider Section
- 6) Header
- 7) Features Section
- 8) About Section
- 9) Team Section
-10) Skills Section
-11) Fun Facts Section
-12) Quote Section
-13) Portfolio Section
-14) Get Connected Section
-15) Services Section
-16) Call to Action 1
-17) Price List Section
-18) Clients Section
-19) Testimonials Section
-20) Contact Form Section
-21) Google Map Section
-22) Video Popup Section
-23) Footer 1
-24) Subscribe Form - Twitter Feed
-25) Shortcode
-
-------------------------------------------------------------------------------*/
 
 /*----- Stylesheets -----*/
 @import "revolution-slider.css";
